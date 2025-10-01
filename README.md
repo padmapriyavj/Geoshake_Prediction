@@ -1,4 +1,4 @@
-# 🌍 GeoShake Prediction
+# 🌍 Geoshake Prediction
 
 A machine learning pipeline for **earthquake data analysis and prediction** using **graph-based deep learning**. This project retrieves earthquake event data from the **USGS Earthquake API**, constructs a **spatial graph** of earthquake occurrences, and prepares the data for predictive modeling using **PyTorch Geometric**.
 
